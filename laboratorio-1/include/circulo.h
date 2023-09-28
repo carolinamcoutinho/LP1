@@ -1,0 +1,1 @@
+void calcularCirculo(double raio, double &area, double &perimetro);

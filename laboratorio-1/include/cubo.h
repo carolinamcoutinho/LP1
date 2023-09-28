@@ -1,0 +1,1 @@
+void calcularCubo(double aresta, double &area, double &volume);

@@ -1,0 +1,1 @@
+void calcularQuadrado(double lado, double &area, double &perimetro);
